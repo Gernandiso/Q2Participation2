@@ -1,0 +1,45 @@
+ <style>
+	   li{
+	   background: ##fcba03;
+	   padding:30px;
+	   	width:  300px;
+	padding: 20px;
+	border: 20px solid:#fcba03;
+	border-style: double dotted;
+	border-top: thick dashed yellow;
+	border-bottom: thick dotted yellow;
+	border-left: thick double yellow;
+	border-right: thick double yellow;
+	width: 30%;
+	margin-top:auto;
+margin-right:auto;
+margin-bottom:auto;
+margin-left:auto;
+	
+	margin: 45px;
+	background-color: #2cfc03;
+	font-family: Arial, sans-serif;
+	font-size: 25px;
+	display: block;
+	   }
+	 body{
+	   background: #2cfc03;
+	   }
+	   h1{
+		      background: ##fcba03;
+	   padding:30px;
+	   	width:  300px;
+	padding: 20px;
+	border: 20px solid:#fcba03;
+	border-style: double dotted;
+	border-top: thick dashed yellow;
+	border-bottom: thick dotted yellow;
+	border-left: thick double yellow;
+	border-right: thick double yellow;
+	width: 30%;
+	margin-top:auto;
+margin-right:auto;
+margin-bottom:auto;
+margin-left:auto;
+	   }
+	   </style>
